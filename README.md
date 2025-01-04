@@ -64,7 +64,3 @@ streamlit run app.py
 
 ### The project not only demonstrates technical skills but also contributes to environmental awareness and sustainable practices. It effectively combines data analysis, machine learning, and software development to address real-world challenges.
 
----
-<p align="center">
-<b>Enjoy Coding</b>❤
-</p>
